@@ -9,16 +9,13 @@ You can also watch the elaborate [video ](https://www.youtube.com/watch?v=Aw30lq
 
 Or just continue here.
 ## Table of Contents
-1. [About the Data](#section1)
-2. [Problem Statement](#section2)
-3. (#section3)
+1. [Problem Statement](#section1)
+2. [Attributes of Data](#section2)
+3. [Exploratory Data Analysis] (#section3)
 4. [Attributes of Data](#section4)
-5. [Pre-Processing Data](#section5)
-6. [Distribution of Data](#section6)
-7. [Algorithms Used](#section7)
-8. [Comparison of Models](#section8)
-9. [ROC Curve Analysis](#section9)
-10. [Python Notebook](#section10)
+5. [Pre-Processing Data](#section4)
+5. [Algorithms Used](#section5)
+6. [Python Notebook](#section6)
 -------
 <a id=section1></a>
 ## 1. Problem Statement
@@ -32,7 +29,7 @@ The provided data had atributes as shown below.
 ![](https://github.com/somagicc/ML-Model-for-Predicting-Price-of-Avocado/blob/master/Images/Data.png)
 
 <a id=section3></a>
-## 3. Data Analysis
+## 3. Exploratory Data Analysis
 1. Average Price of Avocado Across 54 Countries
 
 ![](https://github.com/somagicc/ML-Model-for-Predicting-Price-of-Avocado/blob/master/Images/Average%20Price%20of%20Avocado%20Across%2054%20Countries.png)
@@ -72,7 +69,8 @@ I used two algorithms and then compared them on the basis of different model eva
 ### Model Evaluation Metrics Used
 - RMSE
 
+<a id=section6></a>
 ## 6. Python Notebook
-Find all the codes [here.](https://github.com/somagicc/Gender-Recognition-by-Voice/blob/master/Gender_Recognition_by_Voice.ipynb "here")
+Find all the codes [here.](https://github.com/somagicc/ML-Model-for-Predicting-Price-of-Avocado/blob/master/ML_Model_for_Predicting_Price_of_Avocado.ipynb "here")
 
 Thank you!
