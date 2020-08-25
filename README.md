@@ -12,8 +12,7 @@ Or just continue here.
 1. [Problem Statement](#section1)
 2. [Attributes of Data](#section2)
 3. [Exploratory Data Analysis](#section3)
-4. [Attributes of Data](#section4)
-5. [Pre-Processing Data](#section4)
+4. [Pre-Processing Data](#section4)
 5. [Algorithms Used](#section5)
 6. [Python Notebook](#section6)
 -------
@@ -25,6 +24,7 @@ The goal is to build a model to predict the price of the avocadoes.
 <a id=section2></a>
 ## 2. Attributes of Data
 The provided data had atributes as shown below.
+
 
 | Column Name      | Description                                                              |
 | -------------    |:-------------                                                           :| 
@@ -42,6 +42,7 @@ The provided data had atributes as shown below.
 | Small Bags       | Size of bag                                                              |
 | Large Bags       | Size of bag                                                              |
 | XLarge Bags      | Size of bag                                                              |
+
 
 <a id=section3></a>
 ## 3. Exploratory Data Analysis
