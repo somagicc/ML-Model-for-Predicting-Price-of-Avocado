@@ -11,7 +11,7 @@ Or just continue here.
 ## Table of Contents
 1. [Problem Statement](#section1)
 2. [Attributes of Data](#section2)
-3. [Exploratory Data Analysis] (#section3)
+3. [Exploratory Data Analysis](#section3)
 4. [Attributes of Data](#section4)
 5. [Pre-Processing Data](#section4)
 5. [Algorithms Used](#section5)
@@ -26,7 +26,22 @@ The goal is to build a model to predict the price of the avocadoes.
 ## 2. Attributes of Data
 The provided data had atributes as shown below.
 
-![](https://github.com/somagicc/ML-Model-for-Predicting-Price-of-Avocado/blob/master/Images/Data.png)
+| Column Name      | Description                                                              |
+| -------------    |:-------------                                                           :| 
+| Unnamed: 0       | Index column                                                             | 
+| Date             | The date of the observation                                              |  
+| AveragePrice     | The average price of a single avocado                                    | 
+| Type             | Conventional or organic                                                  |   
+| Year             | The year                                                                 |
+| Region           | The city or region of the observation                                    |
+| Total Volume     | Total number of avocados sold                                            |
+| 4046             | Total number of avocados with PLU 4046 sold (4046 – Hass – small)        |
+| 4225             | Total number of avocados with PLU 4225 sold (4225 – Hass – large)        |
+| 4770             | Total number of avocados with PLU 4770 sold (4770 – Hass Extra Large)    |                                 
+| Total Bags       | Total number of bags of all sizes                                        |
+| Small Bags       | Size of bag                                                              |
+| Large Bags       | Size of bag                                                              |
+| XLarge Bags      | Size of bag                                                              |
 
 <a id=section3></a>
 ## 3. Exploratory Data Analysis
