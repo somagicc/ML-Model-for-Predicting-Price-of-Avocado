@@ -25,9 +25,8 @@ The goal is to build a model to predict the price of the avocadoes.
 ## 2. Attributes of Data
 The provided data had atributes as shown below.
 
-
 | Column Name      | Description                                                              |
-| -------------    |:-------------                                                           :| 
+| -------------    | -------------                                                           | 
 | Unnamed: 0       | Index column                                                             | 
 | Date             | The date of the observation                                              |  
 | AveragePrice     | The average price of a single avocado                                    | 
@@ -46,23 +45,22 @@ The provided data had atributes as shown below.
 
 <a id=section3></a>
 ## 3. Exploratory Data Analysis
-1. Average Price of Avocado Across 54 Countries
 
 ![](https://github.com/somagicc/ML-Model-for-Predicting-Price-of-Avocado/blob/master/Images/Average%20Price%20of%20Avocado%20Across%2054%20Countries.png)
 
-2. Average Price of Avocado Across the Years 2015-2018
+
 
 ![](https://github.com/somagicc/ML-Model-for-Predicting-Price-of-Avocado/blob/master/Images/Average%20Price%20of%20Avocado%20Across%20the%20Years%202015-2018.png)
 
-3. Average Price of Avocado of Two Types
+
 
 ![](https://github.com/somagicc/ML-Model-for-Predicting-Price-of-Avocado/blob/master/Images/Average%20Price%20of%20Avocado%20of%20Two%20Types.png)
 
-4. Frequency of Each Type
+
 
 ![](https://github.com/somagicc/ML-Model-for-Predicting-Price-of-Avocado/blob/master/Images/Frequency%20of%20Each%20Type.png)
 
-5. Frequency of Each Year
+
 
 ![](https://github.com/somagicc/ML-Model-for-Predicting-Price-of-Avocado/blob/master/Images/Frequency%20of%20Each%20Year.png)
 
